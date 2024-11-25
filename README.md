@@ -1,6 +1,11 @@
 # C-programming-code
 2nd semester code
-This GitHub repository contains C programming code examples and projects for the 2nd semester. The repository includes various folders and files covering different aspects of C programming, such as arrays, bitwise operators, file handling, operators, structures, ternary operators, functions, and strings.
+
+
+This GitHub repository contains C programming code examples and projects for the 2nd semester. 
+The repository includes various folders and files covering different aspects of C programming, such as arrays, bitwise operators, file handling, operators, structures, ternary operators, functions, and strings.
+
+
 
 Main Function Points
 Provides a collection of C programming code examples and projects for the 2nd semester
